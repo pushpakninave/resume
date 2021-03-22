@@ -1,0 +1,90 @@
+section{
+  padding-left: 15%;
+  padding-right: 15%;
+  padding-top: 10px;
+  font-family: Bahnschrift SemiBold;
+}
+header{
+  padding-left: 2%;
+  background-color: #808080;
+  height: 180px;
+  border-radius: 10px;
+}
+.triangle{
+  position:absolute;
+  top:51px;
+  right:15%;
+  width: 0;
+  height: 0;
+  border-top: 190px solid black;
+  border-left: 180px solid transparent;
+   }
+.name h1{
+  padding-top: 30px;
+
+  line-height: 40px;
+  font-size: 41px;
+}
+.name h2{
+  font-family: Bahnschrift SemiBold;
+  font-size: 17px;
+  color: #36454F;
+}
+.Info hr{
+  position:absolute;
+  top:250px;
+  left: 35%;
+  width:1px;
+  background-color:gray;
+  height:880px;
+}
+.profile h1{
+  position:absolute;
+  top: 260px;
+  left:38%;
+}
+.profile p{
+  position: absolute;
+  top:309px;
+  left:38%;
+  padding-right: 250px;
+  line-height: 25px;
+}
+.achieve{
+  position:absolute;
+  top: 450px;
+  left:38%;
+  line-height: 35px;
+}
+
+.skills{
+  position:absolute;
+  top: 453px;
+  line-height: 33px;
+}
+.address{
+  position: absolute;
+  top: 800px;
+  line-height: 33px;
+}
+.project{
+  position: absolute;
+  left: 38%;
+  top: 800px;
+  line-height: 35px;
+}
+.contact{
+  position: absolute;
+  top: 1000px;
+  line-height: 35px;
+}
+.bot-line p{
+  position: absolute;
+  top: 1250px;
+  left: 45%;
+  padding-bottom: 100px;
+}
+/*@media only screen and (max-width: 600px) {
+
+
+}*/
