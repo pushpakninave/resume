@@ -1,4 +1,4 @@
 # resume:
 link:https://pushpakninave.github.io/resume/
-this project was to create a simple resume paper for representation.
-completely based on HTML & CSS.
+This project was to create a simple resume (more like on paper) for representation.
+Completely based on HTML & CSS.
